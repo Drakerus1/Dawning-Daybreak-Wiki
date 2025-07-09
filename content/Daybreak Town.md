@@ -1,8 +1,7 @@
 ---
-title: Example Title
+title: Daybreak Town
 draft: false
-tags: 
-- 
+tags:
 ---
 ![[Daybreak Town Overview.jpg]]
 
