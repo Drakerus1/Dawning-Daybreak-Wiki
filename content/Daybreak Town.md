@@ -1,6 +1,6 @@
 ---
 title: Daybreak Town
-draft: false
+draft: true
 tags:
 ---
 ![[Daybreak Town Overview.jpg]]
