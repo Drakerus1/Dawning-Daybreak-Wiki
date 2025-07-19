@@ -3,4 +3,4 @@ title: Kairi
 draft: false
 tags:
 ---
-![[kairi-young.webp]]
+![[kairi-young.webp|center]]
