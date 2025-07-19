@@ -1,6 +1,6 @@
 ---
 title: Kairi
-draft: true
+draft: false
 tags:
 ---
 ![[kairi-young.webp]]
